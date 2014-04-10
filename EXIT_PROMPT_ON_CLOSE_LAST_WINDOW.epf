@@ -1,0 +1,8 @@
+# @title EXIT_PROMPT_ON_CLOSE_LAST_WINDOW
+# @description EXIT_PROMPT_ON_CLOSE_LAST_WINDOW=false
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Wed Apr 09 10:54:46 SGT 2014
+/instance/org.eclipse.ui.ide/EXIT_PROMPT_ON_CLOSE_LAST_WINDOW=false
+file_export_version=3.0
